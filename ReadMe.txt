@@ -1,8 +1,11 @@
-#CONTENT:
-1. DataLoader.ipynb
-2. EDA.ipynb
-3. LOf.ipynb
-4. IsolationForest.ipynb
+# Anomaly Detection in Time Series Data
+
+## Project Overview
+This project focuses on anomaly detection in time-series data using Local Outlier Factor (LOF) and Isolation Forest models. The workflow includes data preprocessing, exploratory data analysis (EDA), and model-based anomaly detection techniques.
+
+## Repository Structure
+
+
 
 NOTE: DataAnalysis.ipynb is not a part of this assignment, it is a rough notebook 
         for me to compare the steps I have perforemed and to play around. 
